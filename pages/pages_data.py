@@ -1,0 +1,5 @@
+CITY = "Գորիս"
+ERROR_MESSAGE = "Անվավեր մուտքանուն կամ գաղտնաբառ:"
+CUSTOMER_NAME = "Hamlet"
+LANGUAGE = "am"
+PHONE_NUMBER = "(098) 86-06-26"
